@@ -1,0 +1,20 @@
+[
+  {
+    "collectionId": "1",
+    "name": "collection1",
+    "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/60.png"
+  },
+  {
+    "collectionId": "2",
+    "name": "collection2",
+    "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/61.png"
+  },
+  {
+    "collectionId": "3",
+    "name": "collection3",
+    "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/62.png"
+  }
+]
